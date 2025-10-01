@@ -8,8 +8,8 @@ if [ "$(id -u)" -ne 0 ]; then
 fi
 
 # Fixed configuration
-USERNAME="admin"
-PASSWORD="10million@"
+USERNAME="haopd"
+PASSWORD="10million"
 PORT=6789
 
 # Get public IP and network interface
