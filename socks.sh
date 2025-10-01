@@ -9,7 +9,7 @@ fi
 
 # Fixed configuration
 USERNAME="admin"
-PASSWORD="10million$"
+PASSWORD="10million@"
 PORT=6789
 
 # Get public IP and network interface
